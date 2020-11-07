@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="textOnMainScreen">Default text</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="nextButtonText">Next</string>
+    <string name="toastButton">Toast</string>
+    <string name="alert_dialog">Alert dialog</string>
+    <string name="confirmation_dialog">Confirmation dialog</string>
+    <string name="snackbar">Snackbar</string>
+    <string name="dialogTitle">Title</string>
+    <string name="cancelButtonText">Cancel</string>
+</resources>
